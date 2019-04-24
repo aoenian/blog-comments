@@ -1,2 +1,2 @@
-# gitment-comments
+# blog-comments
 store blog comments
