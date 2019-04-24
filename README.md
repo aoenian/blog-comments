@@ -1,2 +1,2 @@
 # gitment-comments
-store blog's comments
+store blog comments
